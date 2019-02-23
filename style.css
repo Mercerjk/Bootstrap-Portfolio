@@ -1,0 +1,40 @@
+body {
+  background-image: url(images/white-waves.png);
+}
+* {
+  margin: 0;
+}
+
+hr {
+  height: 1px;
+}
+
+.footer-margin {
+  position: absolute;
+  bottom: 0%;
+  width: 100%;
+}
+
+#message {
+  width: 100%;
+  height: 170px;
+}
+
+#name {
+  width: 100%;
+}
+
+#email {
+  width: 100%;
+}
+
+.submit {
+}
+
+#footer {
+  height: 0px;
+}
+
+h1{
+  display:block;
+}
