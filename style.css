@@ -38,3 +38,11 @@ hr {
 h1{
   display:block;
 }
+
+li{
+  text-align: center;
+}
+
+a {
+  text-align: center;
+}
